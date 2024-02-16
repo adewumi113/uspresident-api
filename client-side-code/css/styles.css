@@ -1,0 +1,14 @@
+html {
+    font-size: 70%;
+    text-align: center;
+}
+span{
+    color: rgb(14, 32, 192);
+    font-family: cursive, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#ab{
+    display: block;
+}
+a{
+    text-decoration: none;
+}
