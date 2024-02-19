@@ -12,3 +12,13 @@ span{
 a{
     text-decoration: none;
 }
+
+/******************************************
+/* MEDIA QUERY
+/*******************************************/
+
+@media all and (max-width: 1279px) {
+    span{
+        font-family: Tahoma, Geneva, Verdana, sans-serif;
+    }
+}
